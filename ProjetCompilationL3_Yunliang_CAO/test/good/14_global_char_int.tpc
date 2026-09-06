@@ -1,0 +1,8 @@
+char flag;
+int result;
+
+int main(void){
+    flag = 'a';
+    result = 1;
+    return 0;
+}

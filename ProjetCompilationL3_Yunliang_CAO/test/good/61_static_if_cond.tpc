@@ -1,0 +1,17 @@
+void toggle(void) {
+    static char state;
+
+    if (state == 0) {
+        state = 'A';
+    } else {
+        state = 'B';
+    }
+
+    putint(state);  // A (65),  B (66)
+}
+
+int main(void) {
+    toggle();
+    toggle();
+    return 0;
+}

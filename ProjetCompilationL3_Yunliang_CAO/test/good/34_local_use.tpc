@@ -1,0 +1,5 @@
+int main(void) {
+    int res;
+    res = 1 -2 / 2 + 3 % 1;
+    return res;
+}

@@ -1,0 +1,10 @@
+int extend(char value) {
+    return value;
+}
+
+int main(void) {
+    char v ;
+    v = -1;
+    putint(extend(v));
+    return 0;
+}

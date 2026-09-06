@@ -1,0 +1,8 @@
+int test(void) {
+    return !(1 + 2 * 3 == 7 || 0); // → !(1 + 6 == 7 || 0) → !(1 || 0) → 0
+}
+
+int main(void) {
+    putint(test()); //  0
+    return 0;
+}

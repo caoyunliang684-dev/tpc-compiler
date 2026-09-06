@@ -1,0 +1,17 @@
+char c;
+
+int main(void) {
+    c = 'a'; 
+
+    if (c) {
+        putint(1); //  1
+    }
+
+    c = '\0';
+
+    if (c) {
+        putint(2); // no
+    }
+
+    return 0;
+}

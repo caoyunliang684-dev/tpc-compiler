@@ -1,0 +1,22 @@
+int gvar;
+
+int add(int x, int y) {
+    return x + y;
+}
+
+int compute(int x, int y, int z) {
+    int flag ,res;
+    flag = 0;
+    res = add(1, (x - y * flag + 'A') / (z + 1));
+    return res;
+}
+
+void complex_expr(int a, int b, int c, int d, int e, int f) {
+    gvar = add(((a * b) / (c + 1) + d - e % (f + 1)) != 42, 100);
+}
+
+int main(void) {
+    complex_expr(5, 3, 2, 1, 9, 4);
+    compute('Z' - 64, 3, 7);
+    return 0;
+}

@@ -1,0 +1,17 @@
+int threshold;
+
+void f(void) {
+    static int total;
+    total = total + 1;
+
+    if (total >= threshold) {
+        putint(999); 
+    }
+}
+
+int main(void) {
+    threshold = 3;
+    f(); f(); 
+    f(); //  999
+    return 0;
+}

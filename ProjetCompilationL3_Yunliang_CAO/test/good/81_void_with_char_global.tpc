@@ -1,0 +1,17 @@
+char g;
+
+void change(void) {
+    if (g == 0) {
+        g = 'A';
+    } else {
+        g = 'B';
+    }
+
+    putint(g);  //  65 (A),  66 (B)
+}
+
+int main(void) {
+    change();
+    change();
+    return 0;
+}

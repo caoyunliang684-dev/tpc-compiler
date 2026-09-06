@@ -1,0 +1,7 @@
+char getA(void) {
+    return 'A'; // ASCII 65
+}
+
+int main(void) {
+    putint(getA()); // 65
+}

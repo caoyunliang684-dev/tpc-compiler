@@ -1,0 +1,11 @@
+int flag;
+
+int main(void) {
+    flag = 1;
+
+    if (flag) {
+        putint(123); //  123
+    }
+
+    return 0;
+}

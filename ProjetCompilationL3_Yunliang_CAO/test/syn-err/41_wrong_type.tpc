@@ -1,0 +1,4 @@
+int main(void) {
+    long a;
+    return 0;
+}

@@ -1,0 +1,13 @@
+int counter;
+
+void inc(void) {
+    counter = counter + 1;
+}
+
+int main(void) {
+    inc();
+    inc();
+    inc();
+    putint(counter); //  3
+    return 0;
+}

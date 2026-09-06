@@ -1,0 +1,8 @@
+int compute(void) {
+    return 1 + 2 * 3 - 4 % 2; // 1 + 6 - 0 = 7
+}
+
+int main(void) {
+    putint(compute()); // 7
+    return 0;
+}

@@ -1,0 +1,9 @@
+void v(void){}
+
+char test(char c) {
+    return c;
+}
+
+int main(void) {
+    return test(v()); 
+}

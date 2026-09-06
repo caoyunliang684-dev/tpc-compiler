@@ -1,0 +1,8 @@
+void dummy(void) {
+    return;   
+}
+
+int main(void) {
+    dummy();
+    return 0;
+}

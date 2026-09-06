@@ -1,0 +1,10 @@
+void g(void){}
+
+int main(void){
+    int x;
+    x = 1;
+    while(g()){
+        x = x + 1;
+    }
+    return 0;
+}

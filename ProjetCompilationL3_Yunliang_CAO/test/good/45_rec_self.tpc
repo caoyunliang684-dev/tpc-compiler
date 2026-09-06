@@ -1,0 +1,9 @@
+int call(int n) {
+    if (n == 0) return 0;
+    return call(n - 1);
+}
+
+int main(void) {
+    putint(call(3)); //  0
+    return 0;
+}

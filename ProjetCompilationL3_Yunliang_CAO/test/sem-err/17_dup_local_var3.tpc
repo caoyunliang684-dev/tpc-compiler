@@ -1,0 +1,6 @@
+int main(void) {
+    int flag;
+    char flag;  
+    flag = 1;
+    return 0;
+}

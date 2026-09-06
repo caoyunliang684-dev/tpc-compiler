@@ -1,0 +1,16 @@
+int inc(int x,int a) {
+    return x + a + 1;
+}
+
+void mix(char a,int b){}
+
+char chr(char a){
+    return a;
+}
+
+int main(void) {
+    chr('a');
+    inc(1,2);
+    mix('a','b');
+    return 0;
+}

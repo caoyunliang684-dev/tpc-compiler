@@ -1,0 +1,8 @@
+int g(void){
+    return;
+}
+
+int main(void){
+    g();
+    return 0;
+}

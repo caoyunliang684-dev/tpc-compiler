@@ -1,0 +1,8 @@
+int a_asdiwajo213_;
+char JIDAJFOA_4231sao;
+
+int main(void) {
+    a_asdiwajo213_ = 1;
+    JIDAJFOA_4231sao = 'a';
+    return 0;
+}

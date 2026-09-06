@@ -1,0 +1,10 @@
+int read_and_return(void) {
+    return getint(); 
+}
+
+int main(void) {
+    int x ;
+    x = read_and_return();
+    putint(x); 
+    return 0;
+}

@@ -1,0 +1,6 @@
+int getint;    
+int putchar;   
+
+int main(void) {
+    return 0;
+}

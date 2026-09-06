@@ -1,0 +1,7 @@
+int get(void) {
+    return 77;
+}
+
+int main(void) {
+    return get();
+}

@@ -1,0 +1,14 @@
+int main(void) {
+    int a ;
+    a = 1;
+    if (a == 0){
+        putint(0);
+    }
+    else if (a == 1){
+        putint(1);
+    }
+    else{
+        putint(2);
+    }
+    return 0;
+}

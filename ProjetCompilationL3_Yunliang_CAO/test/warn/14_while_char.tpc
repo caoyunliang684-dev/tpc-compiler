@@ -1,0 +1,19 @@
+int main(void){
+    char a,b;
+    int count1,count2;
+    a = 'a';
+    count1=0;
+    b = 'b';
+    count2 = 0;
+    while(a > 0){
+        a = a - b;
+        count1 =count1+1;
+    }
+    while (b > 0){
+        b = b-'c';
+        count2= count2+1;
+    }
+    putint(count1);
+    putint(count2);
+    return 0;
+}

@@ -1,0 +1,13 @@
+int cond;
+
+void action(void) {
+    putint(2025);
+}
+
+int main(void) {
+    cond = 1;
+    if (cond) {
+        action();  
+    }
+    return 0;
+}

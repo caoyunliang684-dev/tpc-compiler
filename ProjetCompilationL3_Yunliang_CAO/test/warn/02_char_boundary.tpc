@@ -1,0 +1,13 @@
+int main(void) {
+    char a,b,c;
+    int diff;
+    a = -1;
+    b = 127;
+    c = -128;
+    diff = c - 1;   // -128 - 1 = -129 
+    putint(a);
+    putint(b);
+    putint(c);
+    putint(diff);
+    return 0;
+}

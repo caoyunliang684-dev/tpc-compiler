@@ -1,0 +1,19 @@
+int count;
+
+void inc(void) {
+    static char stage;
+
+    if (stage == 0) {
+        stage = 'X';
+        count = count + 1;
+    }
+
+    putint(stage); //  88 ('X')
+    putint(count); //  1
+}
+
+int main(void) {
+    inc();
+    inc(); //  count don't change
+    return 0;
+}

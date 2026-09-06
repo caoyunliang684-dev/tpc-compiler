@@ -1,0 +1,820 @@
+Running tests (flag: '')...
+Testing test/good/01_addsub_seq.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/02_bool_and.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/03_bool_or.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/04_builtin.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/05_comments.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/06_elseif.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/07_exp.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/08_fun_call.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/09_fun_exp.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/10_func_char.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/11_function.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/12_gloabal_reassign.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/13_global_char.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/14_global_char_int.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/15_global_cond_exp.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/16_global_func.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/17_global_if.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/18_global_if_char.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/19_global_in_exp.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/20_global_influence_static.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/21_global_list.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/22_global_passdata.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/23_global_while.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/24_globals_int.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/25_ident.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/26_if.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/27_if_char.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/28_if_exp.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/29_ifelse.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/30_ifelse_compare.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/31_ininite_loop.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/32_list.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/33_local_list.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/34_local_use.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/35_main.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/36_main_ret_func.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/37_multiple_chars.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/38_multiple_func.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/39_multiple_int.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/40_noret_main.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/41_not.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/42_operation.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/43_parametre.tpc (exp 0, got 0)
+warning: unused parameter 'a' in mix() at line 5
+warning: unused parameter 'b' in mix() at line 5
+summary: 0 errors, 2 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/44_parametre_morethan6.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/45_rec_self.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/46_recursive.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/47_ret_char.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/48_ret_complex.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/49_ret_exp.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/50_ret_getint.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/51_ret_int.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/52_ret_logique.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/53_ret_mixed.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/54_ret_neg.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/55_space.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/56_special_cara.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/57_static_basic.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/58_static_char.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/59_static_char_global_int.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/60_static_global_counter.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/61_static_if_cond.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/62_static_if_count.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/63_static_in_expression.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/64_static_modify_global.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/65_static_multiple_func.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/66_static_multiple_vars.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/67_static_no_initial.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/68_static_self_plus.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/69_static_while.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/70_void_calls_in_ifelse.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/71_void_func.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/72_void_if.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/73_void_in_ifwhile.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/74_void_in_while.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/75_void_multiple_call.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/76_void_multiple_inmain.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/77_void_mutal_calls.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/78_void_noret.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/79_void_recrusion_limit.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/80_void_static.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/81_void_with_char_global.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/good/82_while.tpc (exp 0, got 0)
+summary: 0 errors, 0 warnings
+Parsing completed successfully.
+--------------------
+Testing test/warn/01_arg_putchar.tpc (exp 0, got 0)
+warning: argument to 'putchar' should be char (line 2)
+summary: 0 errors, 1 warnings
+Parsing completed successfully.
+--------------------
+Testing test/warn/02_char_boundary.tpc (exp 0, got 0)
+warning: assignment from int to char may lose data (line 4)
+warning: assignment from int to char may lose data (line 5)
+warning: assignment from int to char may lose data (line 6)
+summary: 0 errors, 3 warnings
+Parsing completed successfully.
+--------------------
+Testing test/warn/03_char_to_int.tpc (exp 0, got 0)
+warning: assignment from int to char may lose data (line 7)
+summary: 0 errors, 1 warnings
+Parsing completed successfully.
+--------------------
+Testing test/warn/04_param_conflit_fun2.tpc (exp 0, got 0)
+warning: parameter 'getint' conflicts with function name (line 0)
+warning: unused parameter 'getint' in f() at line 1
+summary: 0 errors, 2 warnings
+Parsing completed successfully.
+--------------------
+Testing test/warn/05_param_conflit_fun3.tpc (exp 0, got 0)
+warning: parameter 'compute' conflicts with function name (line 0)
+summary: 0 errors, 1 warnings
+Parsing completed successfully.
+--------------------
+Testing test/warn/06_param_conflit_func1.tpc (exp 0, got 0)
+warning: parameter 'helper' conflicts with function name (line 0)
+summary: 0 errors, 1 warnings
+Parsing completed successfully.
+--------------------
+Testing test/warn/07_ret_char_int.tpc (exp 0, got 0)
+warning: return type mismatch in sumToChar(): expect char but got int (line 2)
+summary: 0 errors, 1 warnings
+Parsing completed successfully.
+--------------------
+Testing test/warn/08_ret_int_but_char.tpc (exp 0, got 0)
+warning: return type mismatch in t(): expect char but got int (line 2)
+summary: 0 errors, 1 warnings
+Parsing completed successfully.
+--------------------
+Testing test/warn/09_type_change.tpc (exp 0, got 0)
+warning: assignment from int to char may lose data (line 6)
+summary: 0 errors, 1 warnings
+Parsing completed successfully.
+--------------------
+Testing test/warn/10_unuse_function.tpc (exp 0, got 0)
+warning: function 'f' never called at line 1
+summary: 0 errors, 1 warnings
+Parsing completed successfully.
+--------------------
+Testing test/warn/11_unuse_global.tpc (exp 0, got 0)
+warning: unused global variable 'x' at line 1
+summary: 0 errors, 1 warnings
+Parsing completed successfully.
+--------------------
+Testing test/warn/12_unuse_local.tpc (exp 0, got 0)
+warning: unused local variable 'x' in main() at line 2 
+warning: unused local variable 'c' in main() at line 3 
+summary: 0 errors, 2 warnings
+Parsing completed successfully.
+--------------------
+Testing test/warn/13_unuse_param.tpc (exp 0, got 0)
+warning: function 'f' never called at line 1
+warning: unused parameter 'a' in f() at line 1
+summary: 0 errors, 2 warnings
+Parsing completed successfully.
+--------------------
+Testing test/warn/14_while_char.tpc (exp 0, got 0)
+warning: assignment from int to char may lose data (line 9)
+warning: assignment from int to char may lose data (line 13)
+summary: 0 errors, 2 warnings
+Parsing completed successfully.
+--------------------
+Testing test/syn-err/01_assign_if.tpc (exp 1, got 1)
+Syntax Error at line 4, near column 2
+Parsing failed.
+--------------------
+Testing test/syn-err/02_bad_comment.tpc (exp 1, got 1)
+Syntax Error at line 3, near column 1
+Parsing failed.
+--------------------
+Testing test/syn-err/03_cast_var.tpc (exp 1, got 1)
+Syntax Error at line 5, near column 6
+Parsing failed.
+--------------------
+Testing test/syn-err/04_decl_var_after.tpc (exp 1, got 1)
+Syntax Error at line 4, near column 8
+Parsing failed.
+--------------------
+Testing test/syn-err/05_doube_assign.tpc (exp 1, got 1)
+Syntax Error at line 3, near column 2
+Parsing failed.
+--------------------
+Testing test/syn-err/06_double_div.tpc (exp 1, got 1)
+Syntax Error at line 5, near column 11
+Parsing failed.
+--------------------
+Testing test/syn-err/07_double_mul.tpc (exp 1, got 1)
+Syntax Error at line 4, near column 3
+Parsing failed.
+--------------------
+Testing test/syn-err/08_else_as_var_name.tpc (exp 1, got 1)
+Syntax Error at line 2, near column 5
+Parsing failed.
+--------------------
+Testing test/syn-err/09_else_no_instru.tpc (exp 1, got 1)
+Syntax Error at line 6, near column 2
+Parsing failed.
+--------------------
+Testing test/syn-err/10_fun_no_paren.tpc (exp 1, got 1)
+Syntax Error at line 1, near column 5
+Parsing failed.
+--------------------
+Testing test/syn-err/11_func_decl.tpc (exp 1, got 1)
+Syntax Error at line 1, near column 4
+Parsing failed.
+--------------------
+Testing test/syn-err/12_global_after_func.tpc (exp 1, got 1)
+Syntax Error at line 5, near column 3
+Parsing failed.
+--------------------
+Testing test/syn-err/13_if_as_var_name.tpc (exp 1, got 1)
+Syntax Error at line 2, near column 3
+Parsing failed.
+--------------------
+Testing test/syn-err/14_if_in_while.tpc (exp 1, got 1)
+Syntax Error at line 5, near column 4
+Parsing failed.
+--------------------
+Testing test/syn-err/15_if_no_cond.tpc (exp 1, got 1)
+Syntax Error at line 2, near column 7
+Parsing failed.
+--------------------
+Testing test/syn-err/16_if_no_instru.tpc (exp 1, got 1)
+Syntax Error at line 5, near column 2
+Parsing failed.
+--------------------
+Testing test/syn-err/17_if_no_paren.tpc (exp 1, got 1)
+Syntax Error at line 2, near column 2
+Parsing failed.
+--------------------
+Testing test/syn-err/18_initial_var.tpc (exp 1, got 1)
+Syntax Error at line 2, near column 2
+Parsing failed.
+--------------------
+Testing test/syn-err/19_no_brace.tpc (exp 1, got 1)
+Syntax Error at line 2, near column 11
+Parsing failed.
+--------------------
+Testing test/syn-err/20_no_function.tpc (exp 1, got 1)
+Syntax Error at line 1, near column 3
+Parsing failed.
+--------------------
+Testing test/syn-err/21_no_number_addsub.tpc (exp 1, got 1)
+Syntax Error at line 4, near column 2
+Parsing failed.
+--------------------
+Testing test/syn-err/22_no_parametre.tpc (exp 1, got 1)
+Syntax Error at line 1, near column 7
+Parsing failed.
+--------------------
+Testing test/syn-err/23_no_ret.tpc (exp 1, got 1)
+Syntax Error at line 1, near column 5
+Parsing failed.
+--------------------
+Testing test/syn-err/24_no_semi.tpc (exp 1, got 1)
+Syntax Error at line 3, near column 2
+Parsing failed.
+--------------------
+Testing test/syn-err/25_no_tableau.tpc (exp 1, got 1)
+illegal: [
+
+--------------------
+Testing test/syn-err/26_no_type_var.tpc (exp 1, got 1)
+Syntax Error at line 2, near column 2
+Parsing failed.
+--------------------
+Testing test/syn-err/27_static_function.tpc (exp 1, got 1)
+Syntax Error at line 1, near column 7
+Parsing failed.
+--------------------
+Testing test/syn-err/28_static_global.tpc (exp 1, got 1)
+Syntax Error at line 1, near column 7
+Parsing failed.
+--------------------
+Testing test/syn-err/29_static_middle.tpc (exp 1, got 1)
+Syntax Error at line 4, near column 11
+Parsing failed.
+--------------------
+Testing test/syn-err/30_void_as_var_name.tpc (exp 1, got 1)
+Syntax Error at line 2, near column 5
+Parsing failed.
+--------------------
+Testing test/syn-err/31_void_parm_with_other.tpc (exp 1, got 1)
+Syntax Error at line 1, near column 8
+Parsing failed.
+--------------------
+Testing test/syn-err/32_void_var.tpc (exp 1, got 1)
+Syntax Error at line 1, near column 2
+Parsing failed.
+--------------------
+Testing test/syn-err/33_while_in_if.tpc (exp 1, got 1)
+Syntax Error at line 4, near column 13
+Parsing failed.
+--------------------
+Testing test/syn-err/34_while_no_cond.tpc (exp 1, got 1)
+Syntax Error at line 2, near column 2
+Parsing failed.
+--------------------
+Testing test/syn-err/35_wrong_character.tpc (exp 1, got 1)
+illegal: '
+
+--------------------
+Testing test/syn-err/36_wrong_exp1.tpc (exp 1, got 1)
+Syntax Error at line 3, near column 7
+Parsing failed.
+--------------------
+Testing test/syn-err/37_wrong_exp2.tpc (exp 1, got 1)
+Syntax Error at line 3, near column 7
+Parsing failed.
+--------------------
+Testing test/syn-err/38_wrong_exp3.tpc (exp 1, got 1)
+Syntax Error at line 3, near column 2
+Parsing failed.
+--------------------
+Testing test/syn-err/39_wrong_exp4.tpc (exp 1, got 1)
+Syntax Error at line 3, near column 2
+Parsing failed.
+--------------------
+Testing test/syn-err/40_wrong_symbol.tpc (exp 1, got 1)
+Syntax Error at line 3, near column 3
+Parsing failed.
+--------------------
+Testing test/syn-err/41_wrong_type.tpc (exp 1, got 1)
+Syntax Error at line 2, near column 2
+Parsing failed.
+--------------------
+Testing test/sem-err/01_addsub_void1.tpc (exp 2, got 2)
+error: void expression cannot be used in this context (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/02_addsub_void2.tpc (exp 2, got 2)
+error: void expression cannot be used in this context (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/03_addsub_void3.tpc (exp 2, got 2)
+error: void expression cannot be used in this context (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/04_addsub_void4.tpc (exp 2, got 2)
+error: void expression cannot be used in this context (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/05_arg_count_wrong1.tpc (exp 2, got 2)
+error: incorrect function 'add' call: expect 2 arguments but got 1 (line 7)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/06_arg_count_wrong2.tpc (exp 2, got 2)
+error: incorrect function 'add' call: expect 2 arguments but got 1 (line 6)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/07_arg_type_wrong.tpc (exp 2, got 2)
+error: type mismatch for argument 1 in call to 'test': expect char but got void (line 8)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/08_arg_wrong_main.tpc (exp 2, got 2)
+error: main() must take no arguments but void
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/09_assign_void.tpc (exp 2, got 2)
+error: cannot assign void expression to variable (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/10_divstar_void1.tpc (exp 2, got 2)
+error: void expression cannot be used in this context (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/11_divstar_void2.tpc (exp 2, got 2)
+error: void expression cannot be used in this context (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/12_divstar_void3.tpc (exp 2, got 2)
+error: void expression cannot be used in this context (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/13_divstar_zero1.tpc (exp 2, got 2)
+error: division or modulo by zero at line 3
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/14_divstar_zero2.tpc (exp 2, got 2)
+error: division or modulo by zero at line 3
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/15_dup_local_var1.tpc (exp 2, got 2)
+error: symbol 'x' already declared at line 2
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/16_dup_local_var2.tpc (exp 2, got 2)
+error: symbol 'count' already declared at line 3
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/17_dup_local_var3.tpc (exp 2, got 2)
+error: symbol 'flag' already declared at line 3
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/18_dup_param.tpc (exp 2, got 2)
+error: duplicate parameter 'a' in sum() at line 1
+error: incorrect function 'sum' call: expect 2 arguments but got 3 (line 6)
+summary: 2 errors, 0 warnings
+--------------------
+Testing test/sem-err/19_funcname_as_var.tpc (exp 2, got 2)
+error: undeclared symbol 'f' (line 7)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/20_getchar_noargu.tpc (exp 2, got 2)
+error: builtin function 'getchar' takes no arguments (line 3)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/21_getint_noargu.tpc (exp 2, got 2)
+error: builtin function 'getint' takes no arguments (line 3)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/22_global_conflict_fun.tpc (exp 2, got 2)
+error: function 'f' conflicts with global variable at line 3
+warning: unused global variable 'f' at line 1
+summary: 1 errors, 1 warnings
+--------------------
+Testing test/sem-err/23_global_conflit_builtin.tpc (exp 2, got 2)
+error: global 'getint' conflicts with function name at line 1
+error: global 'putchar' conflicts with function name at line 2
+summary: 2 errors, 0 warnings
+--------------------
+Testing test/sem-err/24_if_void.tpc (exp 2, got 2)
+error: condition in if statement cannot be void (line 9)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/25_no_main.tpc (exp 2, got 2)
+error: missing main function
+warning: function 'g' never called at line 1
+summary: 1 errors, 1 warnings
+--------------------
+Testing test/sem-err/26_not_void.tpc (exp 2, got 2)
+error: void expression cannot be used in logical NOT (line 4)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/27_or_void1.tpc (exp 2, got 2)
+error: void expression cannot be used in this context (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/28_or_void2.tpc (exp 2, got 2)
+error: void expression cannot be used in this context (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/29_order_void1.tpc (exp 2, got 2)
+error: void expression cannot be used in this context (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/30_order_void2.tpc (exp 2, got 2)
+error: void expression cannot be used in this context (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/31_order_void3.tpc (exp 2, got 2)
+error: void expression cannot be used in this context (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/32_order_void4.tpc (exp 2, got 2)
+error: void expression cannot be used in this context (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/33_order_void5.tpc (exp 2, got 2)
+error: void expression cannot be used in this context (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/34_order_void6.tpc (exp 2, got 2)
+error: void expression cannot be used in this context (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/35_order_void7.tpc (exp 2, got 2)
+error: void expression cannot be used in this context (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/36_order_void8.tpc (exp 2, got 2)
+error: void expression cannot be used in this context (line 5)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/37_putchar_novoid.tpc (exp 2, got 2)
+error: argument to 'putchar' cannot be void (line 4)
+warning: argument to 'putchar' should be char (line 4)
+summary: 1 errors, 1 warnings
+--------------------
+Testing test/sem-err/38_putchar_oneargu1.tpc (exp 2, got 2)
+error: builtin function 'putchar' takes exactly 1 argument (line 2)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/39_putchar_oneargu2.tpc (exp 2, got 2)
+error: builtin function 'putchar' takes exactly 1 argument (line 2)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/40_putint_novoid.tpc (exp 2, got 2)
+error: argument to 'putint' cannot be void (line 4)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/41_putint_oneargu1.tpc (exp 2, got 2)
+error: builtin function 'putint' takes exactly 1 argument (line 2)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/42_putint_oneargu2.tpc (exp 2, got 2)
+error: builtin function 'putint' takes exactly 1 argument (line 2)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/43_redecl_global1.tpc (exp 2, got 2)
+error: redeclaration of global 'a' at line 2
+warning: unused global variable 'a' at line 1
+summary: 1 errors, 1 warnings
+--------------------
+Testing test/sem-err/44_redecl_global2.tpc (exp 2, got 2)
+error: redeclaration of global 'a' at line 2
+warning: unused global variable 'a' at line 1
+summary: 1 errors, 1 warnings
+--------------------
+Testing test/sem-err/45_redef_builtin.tpc (exp 2, got 2)
+error: redefinition of builtin function 'putchar' at line 1
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/46_redef_func.tpc (exp 2, got 2)
+error: redefinition of function 'f' at line 6
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/47_ret_no_int_main.tpc (exp 2, got 2)
+error: main() must return int
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/48_static_redecl1.tpc (exp 2, got 2)
+error: static symbol 'a' already declared at line 3
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/49_static_redecl2.tpc (exp 2, got 2)
+error: static symbol 'temp' already declared at line 3
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/50_static_redecl3.tpc (exp 2, got 2)
+error: static symbol 'c' already declared at line 3
+warning: assignment from int to char may lose data (line 4)
+summary: 1 errors, 1 warnings
+--------------------
+Testing test/sem-err/51_undeclar_fun1.tpc (exp 2, got 2)
+error: call to undeclared function 'magic' (line 3)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/52_undeclar_fun2.tpc (exp 2, got 2)
+error: call to undeclared function 'magic' (line 2)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/53_undeclar_symbol.tpc (exp 2, got 2)
+error: undeclared symbol 'y' (line 3)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/54_var_called_as_function.tpc (exp 2, got 2)
+error: entry 'f' of type char is not a function and cannot be called (line 4)
+warning: unused global variable 'f' at line 1
+summary: 1 errors, 1 warnings
+--------------------
+Testing test/sem-err/55_void_fun1.tpc (exp 2, got 2)
+error: void function 'g' cannot return a value (line 2)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/56_void_fun2.tpc (exp 2, got 2)
+error: non-void function 'g' has invalid return statement at line 1
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/57_void_fun3.tpc (exp 2, got 2)
+error: returning void expression from non-void function 'g' (line 2)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/58_void_fun4.tpc (exp 2, got 2)
+error: returning void expression from non-void function 'g' (line 4)
+summary: 1 errors, 0 warnings
+--------------------
+Testing test/sem-err/59_while_void.tpc (exp 2, got 2)
+error: condition in while statement cannot be void (line 8)
+summary: 1 errors, 0 warnings
+--------------------
+good    : 82 / 82
+warn    : 14 / 14
+syn-err : 41 / 41
+sem-err : 59 / 59

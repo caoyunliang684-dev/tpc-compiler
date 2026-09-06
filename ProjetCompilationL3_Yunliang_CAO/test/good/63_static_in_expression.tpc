@@ -1,0 +1,12 @@
+void accumulate(int x) {
+    static int sum;
+    sum = sum + x;
+    putint(sum);
+}
+
+int main(void) {
+    accumulate(7);
+    accumulate(8);
+    accumulate(9); //  7 15 24
+    return 0;
+}

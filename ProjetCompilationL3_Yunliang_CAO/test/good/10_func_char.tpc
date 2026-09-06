@@ -1,0 +1,22 @@
+char giveSign(int x){
+    if (x > 0){
+        return 'a';
+    }
+    else if(x < 0){
+        return 'b';
+    }
+    else {
+        return 'c';
+    }
+}
+
+int main(void){
+    char r1,r2,r3;
+    r1 =giveSign(5);
+    r2 = giveSign(-5);
+    r3 = giveSign(0);
+    putchar(r1);
+    putchar(r2);
+    putchar(r3);
+    return 0;
+}

@@ -1,0 +1,7 @@
+int main(void) {
+    int a ,b;
+    a = 5;
+    b = -+-+a; // -(+(+(+5))) → -5
+    putint(b);     // -5
+    return 0;
+}

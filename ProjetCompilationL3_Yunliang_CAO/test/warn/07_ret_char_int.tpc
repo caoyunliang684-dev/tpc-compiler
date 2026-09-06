@@ -1,0 +1,13 @@
+char sumToChar(char p,int q){
+    return p + q;
+}
+
+int main(void){
+    char c,res;
+    int x;
+    c = 'a';
+    x = 30;
+    res =sumToChar(c,x);
+    putint(res);
+    return 0;
+}

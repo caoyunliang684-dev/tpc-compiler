@@ -1,0 +1,7 @@
+void get(void) {}
+
+int main(void) {
+    int ok ;
+    ok = get() <= 1;   
+    return ok;
+}

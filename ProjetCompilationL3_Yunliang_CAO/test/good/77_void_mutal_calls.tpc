@@ -1,0 +1,13 @@
+void f(void) {
+    putint(1);
+    g();
+}
+
+void g(void) {
+    putint(2);
+}
+
+int main(void) {
+    f();   //  1 2
+    return 0;
+}

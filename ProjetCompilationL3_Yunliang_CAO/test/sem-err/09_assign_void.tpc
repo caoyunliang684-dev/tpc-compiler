@@ -1,0 +1,7 @@
+void g(void){}
+
+int main(void){
+    int x;
+    x = g();
+    return 0;
+}

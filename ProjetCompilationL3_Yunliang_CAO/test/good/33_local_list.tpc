@@ -1,0 +1,11 @@
+int main(void) {
+    int a, b, c;
+    char d, e, f;
+    a = 1;
+    b = 1;
+    c = 1;
+    d = 'a';
+    e = 'a';
+    f = 'a';
+    return 0;
+}

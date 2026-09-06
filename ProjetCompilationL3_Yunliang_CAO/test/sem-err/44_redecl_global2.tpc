@@ -1,0 +1,6 @@
+int a;
+int a;     // <- erreur ici : redeclaration of global 'a'
+
+int main(void) {
+    return 0;
+}

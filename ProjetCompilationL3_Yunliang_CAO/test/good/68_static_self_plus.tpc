@@ -1,0 +1,11 @@
+int counterFunc(void) {
+    static int counter; 
+    counter = counter + 1;
+    return counter;
+}
+int main(void) {
+    putint(counterFunc()); //1
+    putint(counterFunc()); //2
+    putint(counterFunc()); //3
+    return 0;
+}

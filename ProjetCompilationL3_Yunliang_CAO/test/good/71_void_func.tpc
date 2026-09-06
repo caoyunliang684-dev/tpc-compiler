@@ -1,0 +1,8 @@
+void hello(void) {
+    putint(123);
+}
+
+int main(void) {
+    hello(); //  123
+    return 0;
+}

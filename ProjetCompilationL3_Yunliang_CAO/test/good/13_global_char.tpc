@@ -1,0 +1,7 @@
+char c;
+
+int main(void) {
+    c = 'A';
+    putint(c); // 65
+    return 0;
+}

@@ -1,0 +1,17 @@
+void track(void) {
+    static int calls;
+    static int total;
+
+    calls = calls + 1;
+    total = total + 100;
+
+    putint(calls); // 1 2 3 ...
+    putint(total); // 100 200 300 ...
+}
+
+int main(void) {
+    track();
+    track();
+    track();
+    return 0;
+}

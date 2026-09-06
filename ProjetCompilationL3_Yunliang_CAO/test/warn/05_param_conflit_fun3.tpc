@@ -1,0 +1,13 @@
+int compute(int x) {
+    return x * 2;
+}
+
+char process(char compute) {  
+    return compute;
+}
+
+int main(void){
+    compute(1);
+    process(2);
+    return 0;
+}

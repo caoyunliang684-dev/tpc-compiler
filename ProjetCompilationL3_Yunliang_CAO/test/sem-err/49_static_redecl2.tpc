@@ -1,0 +1,6 @@
+int main(void) {
+    int temp ;
+    static int temp;  
+    temp = 1;
+    return temp;
+}

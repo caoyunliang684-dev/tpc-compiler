@@ -1,0 +1,12 @@
+int compute(void) {
+    int a ,b,c;
+    a = 2;
+    b = 3;
+    c = 4;
+    return a + b * c; // → 2 + 3 * 4 = 14
+}
+
+int main(void) {
+    putint(compute()); // 14
+    return 0;
+}

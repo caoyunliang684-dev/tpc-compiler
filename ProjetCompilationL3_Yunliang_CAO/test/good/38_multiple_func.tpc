@@ -1,0 +1,16 @@
+int inc(int x){
+    return x + 1;
+}
+
+int doubleVal(char y){
+    return y * 2;
+}
+
+int main(void){
+    char a;
+    int result;
+    a = 'a';
+    result = inc(doubleVal(a));
+    putint(result);
+    return 0;
+}

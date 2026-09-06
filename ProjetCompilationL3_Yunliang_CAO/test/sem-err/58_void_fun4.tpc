@@ -1,0 +1,10 @@
+void h(void){}
+
+int g(void){
+    return h();
+}
+
+int main(void){
+    g();
+    return 0;
+}

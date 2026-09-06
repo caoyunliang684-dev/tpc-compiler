@@ -1,0 +1,17 @@
+void f1(void) {
+    static int x;
+    x = x + 1;
+    putint(x); //  1
+}
+
+void f2(void) {
+    static int x;
+    x = x + 10;
+    putint(x); //  10
+}
+
+int main(void) {
+    f1(); f2();
+    f1(); f2(); //  1 10 2 20
+    return 0;
+}

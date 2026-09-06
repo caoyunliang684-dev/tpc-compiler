@@ -1,0 +1,4 @@
+int main(void){
+    int if;
+    return 0;
+}

@@ -1,0 +1,58 @@
+int main(void) {
+    char a;
+
+    // ---- caractères d’échappement ----
+    a = '\n'; putint(a);
+    a = '\r'; putint(a);
+    a = '\t'; putint(a);
+    a = '\\'; putint(a);
+    a = '\''; putint(a);
+    a = '\0'; putint(a);
+
+    // ---- chiffres ----
+    a = '0'; putint(a);
+    a = '9'; putint(a);
+
+    // ---- lettres majuscules ----
+    a = 'A'; putint(a);
+    a = 'Z'; putint(a);
+
+    // ---- lettres minuscules ----
+    a = 'a'; putint(a);
+    a = 'z'; putint(a);
+
+    // ---- symboles ----
+    a = '!'; putint(a);
+    a = '"'; putint(a);
+    a = '#'; putint(a);
+    a = '$'; putint(a);
+    a = '%'; putint(a);
+    a = '&'; putint(a);
+    a = '('; putint(a);
+    a = ')'; putint(a);
+    a = '*'; putint(a);
+    a = '+'; putint(a);
+    a = ','; putint(a);
+    a = '-'; putint(a);
+    a = '.'; putint(a);
+    a = '/'; putint(a);
+    a = ':'; putint(a);
+    a = ';'; putint(a);
+    a = '<'; putint(a);
+    a = '='; putint(a);
+    a = '>'; putint(a);
+    a = '?'; putint(a);
+    a = '@'; putint(a);
+    a = '['; putint(a);
+    a = ']'; putint(a);
+    a = '^'; putint(a);
+    a = '_'; putint(a);
+    a = '`'; putint(a);
+    a = '{'; putint(a);
+    a = '|'; putint(a);
+    a = '}'; putint(a);
+    a = '~'; putint(a);
+    a = ' '; putint(a);
+
+    return 0;
+}

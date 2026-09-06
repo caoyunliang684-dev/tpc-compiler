@@ -1,0 +1,5 @@
+int main(void) {
+    int a;
+    if (1 + 2 == 3) 
+       
+}

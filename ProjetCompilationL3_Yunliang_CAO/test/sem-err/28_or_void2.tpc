@@ -1,0 +1,7 @@
+void get(void){}
+
+int main(void) {
+    int x ;
+    x = get() || 1;  
+    return x;
+}

@@ -1,0 +1,13 @@
+int count;
+
+void step(void) {
+    putint(count);
+    count = count + 1;
+}
+
+int main(void) {
+    while (count < 3) {
+        step();       
+    }
+    return 0;
+}

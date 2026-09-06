@@ -1,0 +1,14 @@
+void recur(void) {
+    static int depth;
+
+    if (depth >= 3) return;
+
+    putint(depth);     //  0 1 2
+    depth = depth + 1;
+    recur();          
+}
+
+int main(void) {
+    recur();
+    return 0;
+}

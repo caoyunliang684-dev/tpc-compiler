@@ -1,0 +1,14 @@
+int x, y;
+
+int main(void) {
+    x = 5;
+    y = 10;
+
+    if (x + y > 12) {
+        putint(1); // 5 + 10 = 15 > 12 →  1
+    } else {
+        putint(0);
+    }
+
+    return 0;
+}

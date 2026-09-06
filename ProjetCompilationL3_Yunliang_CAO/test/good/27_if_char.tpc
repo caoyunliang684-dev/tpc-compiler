@@ -1,0 +1,27 @@
+int main(void) {
+    char c;
+
+    c = 'A';       // ASCII 65
+    if (c) {
+        putint(1); //  1
+    }
+
+    c = '\0';         //  0
+    if (c) {
+        putint(999); // no
+    } else {
+        putint(2);   //  2
+    }
+
+    c = '\0';      //  0
+    if (c) {
+        putint(999); // no
+    }
+
+    c = '!';       
+    if (c) {
+        putint(3); //  3
+    }
+
+    return 0;
+}

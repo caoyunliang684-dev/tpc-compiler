@@ -1,0 +1,7 @@
+int give42(void) {
+    return 42;
+}
+
+int main(void) {
+    putint(give42()); //  42
+}

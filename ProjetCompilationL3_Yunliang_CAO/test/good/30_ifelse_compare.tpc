@@ -1,0 +1,29 @@
+int checkZero(char c,int x){
+    if (c == 0){
+        if (x == 0){
+            return 0;
+        }
+        else {
+            return 100;
+        }
+    }
+    else {
+        if (x == 0){
+            return 200;
+        }
+        else {
+            return 300;
+        }
+    }   
+}
+
+int main(void){
+    char a,b;
+    a = '\0';
+    b = 'a';
+    putint(checkZero(a,0));
+    putint(checkZero(a,5));
+    putint(checkZero(b,0));
+    putint(checkZero(b,5));
+    return 0;
+}

@@ -1,0 +1,23 @@
+void yes(void) {
+    putint(1);
+}
+
+void no(void) {
+    putint(0);
+}
+
+int main(void) {
+    if (1) {
+        yes();   //  1
+    } else {
+        no();
+    }
+
+    if (0) {
+        yes();
+    } else {
+        no();   //  0
+    }
+
+    return 0;
+}

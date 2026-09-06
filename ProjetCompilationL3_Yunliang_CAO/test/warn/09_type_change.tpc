@@ -1,0 +1,11 @@
+
+int main(void) {
+    int a,b;
+    char c;
+    a = 130;
+    c = a;    // -126
+    b = c;     // -126
+    putint(c);
+    putint(b);
+    return 0;
+}

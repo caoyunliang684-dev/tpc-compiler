@@ -1,0 +1,17 @@
+int g;
+
+void f(void) {
+    static int called;
+    called = called + 1;
+
+    g = g + 100;
+
+    putint(called); // 1 2
+    putint(g);      // 100 200
+}
+
+int main(void) {
+    f();
+    f();
+    return 0;
+}

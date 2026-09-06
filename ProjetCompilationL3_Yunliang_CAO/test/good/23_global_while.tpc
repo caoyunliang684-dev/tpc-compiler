@@ -1,0 +1,12 @@
+int count;
+
+int main(void) {
+    count = 3;
+
+    while (count) {
+        putint(count); // 3 2 1
+        count = count - 1;
+    }
+
+    return 0;
+}

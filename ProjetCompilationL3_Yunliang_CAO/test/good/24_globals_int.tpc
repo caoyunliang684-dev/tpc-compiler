@@ -1,0 +1,7 @@
+int g;
+
+int main(void) {
+    g = 42;
+    putint(g);
+    return 0;
+}

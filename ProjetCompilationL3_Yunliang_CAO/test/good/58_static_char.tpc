@@ -1,0 +1,17 @@
+void step1(void) {
+    static char c;
+    c = 'A';         
+    putint(c);       //  65
+}
+
+void step2(void) {
+    static char c;
+    c = 'B';         
+    putint(c);       //  66
+}
+
+int main(void) {
+    step1();
+    step2();
+    return 0;
+}

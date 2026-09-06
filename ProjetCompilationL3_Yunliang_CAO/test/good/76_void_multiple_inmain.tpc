@@ -1,0 +1,10 @@
+void one(void) { putint(1); }
+void two(void) { putint(2); }
+void three(void) { putint(3); }
+
+int main(void) {
+    one();
+    two();
+    three();
+    return 0;
+}

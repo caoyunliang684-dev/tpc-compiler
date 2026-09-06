@@ -1,0 +1,13 @@
+void log_once(void) {
+    static int printed;
+    if (!printed) {
+        printed = 1;
+        putint(2025); 
+    }
+}
+
+int main(void) {
+    log_once();
+    log_once();//no
+    return 0;
+}

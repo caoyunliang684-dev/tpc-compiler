@@ -1,0 +1,17 @@
+int value;
+
+void reset(void) {
+    value = 0;
+}
+
+void accumulate(int x) {
+    value = value + x;
+}
+
+int main(void) {
+    reset();
+    accumulate(5);
+    accumulate(10);
+    putint(value); //  15
+    return 0;
+}

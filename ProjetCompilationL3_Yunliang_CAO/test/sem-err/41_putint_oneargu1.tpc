@@ -1,0 +1,4 @@
+int main(void) {
+    putint(); 
+    return 0;
+}

@@ -1,0 +1,14 @@
+# Build output
+obj/
+bin/
+nasm/
+_anonymous.asm
+test_exec
+*.o
+
+# Archives of the source tree
+*.zip
+
+# Editor / OS files
+.DS_Store
+.vscode/
